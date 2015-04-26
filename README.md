@@ -1,6 +1,5 @@
 # Prime Sifting Exercise with JavaScript for Epicodus
 
-#Course Roster Exercise with AngularJS for Epicodus
 ###Kelly de Vries
 
 #####April 7, 2015
